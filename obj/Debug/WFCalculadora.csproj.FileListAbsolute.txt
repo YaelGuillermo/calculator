@@ -1,0 +1,13 @@
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\bin\Debug\WFCalculadora.exe.config
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\bin\Debug\WFCalculadora.exe
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\bin\Debug\WFCalculadora.pdb
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.csproj.AssemblyReference.cache
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.Form1.resources
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.Properties.Resources.resources
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.csproj.GenerateResource.cache
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.exe
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.pdb
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\bin\Debug\BCalculadora.dll
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\bin\Debug\BCalculadora.pdb
+C:\Users\Yael Gonzalez\source\repos\WFCalculadora\obj\Debug\WFCalculadora.csproj.CopyComplete

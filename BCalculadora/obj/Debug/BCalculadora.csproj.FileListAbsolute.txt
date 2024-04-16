@@ -1,0 +1,6 @@
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\bin\Debug\BCalculadora.dll
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\bin\Debug\BCalculadora.pdb
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\obj\Debug\BCalculadora.csproj.AssemblyReference.cache
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\obj\Debug\BCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\obj\Debug\BCalculadora.dll
+C:\Users\Yael Gonzalez\source\repos\BCalculadora\obj\Debug\BCalculadora.pdb
